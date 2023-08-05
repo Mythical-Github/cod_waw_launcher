@@ -1,0 +1,123 @@
+{
+    "nazi_zombie_tutorial": {
+        "bsp": true,
+        "lights": true,
+        "paths": true,
+        "reflections": true,
+        "fastfiles": true,
+        "only_ents": false,
+        "fast": true,
+        "extra": false,
+        "mod_specific_map": true
+    },
+    "nazi_zombie_tutorial_patch": {
+        "bsp": false,
+        "lights": false,
+        "paths": false,
+        "reflections": false,
+        "fastfiles": true,
+        "only_ents": false,
+        "fast": true,
+        "extra": false,
+        "mod_specific_map": false
+    },
+    "_zm_launcher_test_patch": {
+        "bsp": false,
+        "lights": false,
+        "paths": false,
+        "reflections": false,
+        "fastfiles": true,
+        "only_ents": false,
+        "fast": true,
+        "extra": false,
+        "mod_specific_map": false
+    },
+    "_zm_launcher_test": {
+        "bsp": true,
+        "lights": true,
+        "paths": true,
+        "reflections": true,
+        "fastfiles": true,
+        "only_ents": false,
+        "fast": true,
+        "extra": false,
+        "mod_specific_map": true
+    },
+    "vacant": {
+        "bsp": true,
+        "lights": true,
+        "paths": true,
+        "reflections": true,
+        "fastfiles": true,
+        "only_ents": false,
+        "fast": true,
+        "extra": false,
+        "mod_specific_map": true
+    },
+    "_test_modular": {
+        "bsp": true,
+        "lights": true,
+        "paths": true,
+        "reflections": true,
+        "fastfiles": true,
+        "only_ents": false,
+        "fast": true,
+        "extra": false,
+        "mod_specific_map": true
+    },
+    "yt1": {
+        "bsp": true,
+        "lights": true,
+        "paths": true,
+        "reflections": true,
+        "fastfiles": true,
+        "only_ents": false,
+        "fast": true,
+        "extra": false,
+        "mod_specific_map": true
+    },
+    "yt1_patch": {
+        "bsp": false,
+        "lights": false,
+        "paths": false,
+        "reflections": false,
+        "fastfiles": true,
+        "only_ents": false,
+        "fast": true,
+        "extra": false,
+        "mod_specific_map": false
+    },
+    "x_map_challenge_patch": {
+        "bsp": false,
+        "lights": false,
+        "paths": false,
+        "reflections": false,
+        "fastfiles": true,
+        "only_ents": false,
+        "fast": true,
+        "extra": false,
+        "mod_specific_map": false
+    },
+    "x_map_challenge": {
+        "bsp": true,
+        "lights": true,
+        "paths": true,
+        "reflections": true,
+        "fastfiles": true,
+        "only_ents": false,
+        "fast": true,
+        "extra": false,
+        "mod_specific_map": true
+    },
+    "generator_test": {
+        "bsp": true,
+        "lights": true,
+        "paths": true,
+        "reflections": true,
+        "fastfiles": true,
+        "only_ents": false,
+        "fast": true,
+        "extra": false,
+        "mod_specific_map": true
+    }
+}
